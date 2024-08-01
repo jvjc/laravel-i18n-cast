@@ -1,0 +1,11 @@
+{
+    "Productos": "Products",
+    "Bienvenido a nuestra tienda en línea": "Welcome to our online store",
+    "ID": "ID",
+    "Código": "SKU",
+    "Nombre": "Name",
+    "Descripción": "Description",
+    "Precio": "Price",
+    "Creado el": "Created at",
+    "Actualizado el": "Updated at"
+}
